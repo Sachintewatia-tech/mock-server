@@ -1,7 +1,18 @@
 {
-  "todo": [
-    { "id": 1, "title": "json-server", "status": "false" },
-    { "id": 2, "title": "react-js", "status": "false" },
-    { "id": 3, "title": "data-structure", "status": "true" }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
   ]
 }
